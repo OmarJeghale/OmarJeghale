@@ -25,8 +25,5 @@ Thanks for visiting my profile! I'm always open to connecting, collaborating, or
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=omarjeghalef&label=Profile%20Views&color=0e75b6&style=flat)
 
-<!-- Compact view -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarJeghale&layout=compact&hide=html,css)
 
-<!-- Show card with bar chart -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarJeghale&langs_count=10)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarJeghale)](https://github.com/OmarJeghale/github-readme-stats)

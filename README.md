@@ -10,7 +10,7 @@
 
 ## 🚀 Skills
 
-- Languages & Tools: SQL, Python, Git, Excel
+- Languages & Tools: Java, C, PostgreSQL, Python, Git
 - Concepts: Data Cleaning, Data Analysis, Software Engineering Principles
 - Soft Skills: Problem-Solving, Team Collaboration, Strategic Thinking
 

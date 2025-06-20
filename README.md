@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Omar Jeghalef!
 
-🎓 I'm a Computer Science student at George Mason University, currently on a mission to build data-driven solutions that make a real-world impact. I'm passionate about using technology to solve complex problems—and I believe in learning by doing.
+🎓 I'm a Computer Science student at George Mason University, currently on a mission to build data-driven solutions that make a real-world impact. I'm passionate about using technology to solve complex problems, and I believe in <b>learning by doing<b>.
 
 ## 💻 What I'm Working On
 

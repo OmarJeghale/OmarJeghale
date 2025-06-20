@@ -23,7 +23,4 @@ I'm passionate about **Data Analysis** and **Software Engineering**, two fields 
 
 Thanks for visiting my profile! I'm always open to connecting, collaborating, or just chatting about tech and data. 🚀
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=omarjeghalef&label=Profile%20Views&color=0e75b6&style=flat)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarJeghale)](https://github.com/OmarJeghale/github-readme-stats)
+![Top Langs](https://github-readme-stats-eosin-six-62.vercel.app/api/top-langs/?username=OmarJeghale&hide=yacc,lex,makefile&layout=compact)

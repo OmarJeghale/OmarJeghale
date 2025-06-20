@@ -11,8 +11,8 @@ I'm passionate about **Data Analysis** and **Software Engineering**, two fields 
 ## 🛠️ Skills
 
 - **Programming Languages**: `Java` • `C` • `Python` • `SQL`
-- **Tools & Technologies**: `PostgreSQL` • `Pandas` • `Git` • `Excel`
-- **Core Areas**: Data Analysis • Data Cleaning • Full-Stack Development
+- **Tools & Technologies**: `PostgreSQL` • `Pandas` • `Git`
+- **Core Areas**: Data Analysis • Full-Stack Development • Object-Oriented Programming
 
 ## 📫 Connect With Me
 

@@ -4,18 +4,7 @@ I'm passionate about **Data Analysis** and **Software Engineering**—two fields
 
 ## 💡 About Me
 
-I'm currently pursuing a Bachelor's degree in **Computer Science** and working to sharpen my skills in **SQL**, **Python**, and broader **software development principles**. I'm always excited to take on new projects that help me learn, collaborate, and make an impact.
-
-## 🛠️ Skills
-
-- **Technical Skills**:  
-  `SQL` • `Data Analysis` • `Data Cleaning`
-
-- **Languages**:  
-  `English` (Native/Bilingual) • `Arabic` (Native/Bilingual)
-
-- **Soft Skills**:  
-  Problem-Solving • Collaboration • Strategic Thinking • Empathy
+I'm currently pursuing a Bachelor's degree in **Computer Science** and a Master's degree in **Software Engineering**. I'm working to sharpen my skills in **SQL**, **Python**, and broader **software development principles**. I'm always excited to take on new projects that help me learn, collaborate, and make an impact.
 
 ## 📫 Connect With Me
 

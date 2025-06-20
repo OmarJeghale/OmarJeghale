@@ -1,25 +1,27 @@
-# 👋 Hi there, I’m Omar Jeghalef!
+# 👋 Hi there, I'm Omar Jeghalef!
 
-🎓 I'm a Computer Science student at George Mason University, currently on a mission to build data-driven solutions that make a real-world impact. I'm passionate about using technology to solve complex problems, and I believe in <b>learning by doing<b>.
+I'm passionate about **Data Analysis** and **Software Engineering**—two fields I'm actively exploring and growing in every day. Whether it's analyzing data to uncover insights or building scalable software solutions, I'm driven by the challenge of solving meaningful problems through tech.
 
-## 💻 What I'm Working On
+## 💡 About Me
 
-- 📊 Analyzing Intel’s sustainability efforts using SQL (portfolio project in progress!)
-- 🧠 Learning Python for data analysis and automation
-- 🔧 Exploring software engineering concepts like systems design and full-stack development
+I'm currently pursuing a Bachelor's degree in **Computer Science** and working to sharpen my skills in **SQL**, **Python**, and broader **software development principles**. I'm always excited to take on new projects that help me learn, collaborate, and make an impact.
 
-## 🚀 Skills
+## 🛠️ Skills
 
-- Languages & Tools: Java, C, PostgreSQL, Python, Git
-- Concepts: Data Cleaning, Data Analysis, Software Engineering Principles
-- Soft Skills: Problem-Solving, Team Collaboration, Strategic Thinking
+- **Technical Skills**:  
+  `SQL` • `Data Analysis` • `Data Cleaning`
+
+- **Languages**:  
+  `English` (Native/Bilingual) • `Arabic` (Native/Bilingual)
+
+- **Soft Skills**:  
+  Problem-Solving • Collaboration • Strategic Thinking • Empathy
 
 ## 📫 Connect With Me
 
-- 📍 Wayne, NJ
+- 🌐 [LinkedIn](https://www.linkedin.com/in/omar-jeghalef)
 - 📧 [omarjeghalef05@gmail.com](mailto:omarjeghalef05@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-jeghalef)
 
 ---
 
-> “I’m actively looking to apply what I’m learning through projects and internships—if you’re building something in tech or data and want to collaborate, let’s talk!”
+Thanks for visiting my profile! I'm always open to connecting, collaborating, or just chatting about tech and data. 🚀

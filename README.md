@@ -1,12 +1,25 @@
-<h1 align="center">Hi 👋, I'm Omar Jeghalef!</h1>
-<h3 align="center">A passionate data scientist and software engineer</h3>
+# 👋 Hi there, I’m Omar Jeghalef!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarjeghale&label=Profile%20views&color=0e75b6&style=flat" alt="omarjeghale" /> </p>
+🎓 I'm a Computer Science student at George Mason University, currently on a mission to build data-driven solutions that make a real-world impact. I'm passionate about using technology to solve complex problems—and I believe in learning by doing.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omar-jeghalef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-jeghalef" height="30" width="40" /></a>
-</p>
+## 💻 What I'm Working On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📊 Analyzing Intel’s sustainability efforts using SQL (portfolio project in progress!)
+- 🧠 Learning Python for data analysis and automation
+- 🔧 Exploring software engineering concepts like systems design and full-stack development
+
+## 🚀 Skills
+
+- Languages & Tools: SQL, Python, Git, Excel
+- Concepts: Data Cleaning, Data Analysis, Software Engineering Principles
+- Soft Skills: Problem-Solving, Team Collaboration, Strategic Thinking
+
+## 📫 Connect With Me
+
+- 📍 Wayne, NJ
+- 📧 [omarjeghalef05@gmail.com](mailto:omarjeghalef05@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/omar-jeghalef)
+
+---
+
+> “I’m actively looking to apply what I’m learning through projects and internships—if you’re building something in tech or data and want to collaborate, let’s talk!”

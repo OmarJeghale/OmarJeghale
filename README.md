@@ -10,9 +10,9 @@ I'm passionate about **Data Analysis** and **Software Engineering**, two fields 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python • Java • C • SQL
-- **Tools & Technologies**: PostgreSQL • Flask • Pandas • Git
-- **Core Areas**: Data Analysis • Full-Stack Development • Object-Oriented Programming
+- **Programming Languages**: Python • Java • C • SQL • HTML/CSS
+- **Tools & Frameworks**: PostgreSQL • Flask • Git • VS Code • IntelliJ • Jupyter Notebook
+- **Libraries**: pandas • Plotly • scikit-learn • SQLAlchemy
 
 ## 📫 Connect With Me
 

@@ -22,5 +22,3 @@ I'm passionate about **Data Analysis** and **Software Engineering**, two fields 
 ---
 
 Thanks for visiting my profile! I'm always open to connecting, collaborating, or just chatting about tech and data. 🚀
-
-![Top Langs](https://github-readme-stats-dvzk.vercel.app/api/top-langs/?username=OmarJeghale&hide=yacc,lex,makefile&layout=compact)
